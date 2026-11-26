@@ -1,4 +1,7 @@
 {
+  "+8++PW": {
+    "defaultMessage": "Biblioteka je stvorena: {library}"
+  },
   "+PNCoe": {
     "defaultMessage": "Alternativni naslov"
   },
@@ -35,6 +38,9 @@
   "0ILHru": {
     "defaultMessage": "U redu"
   },
+  "0MePSx": {
+    "defaultMessage": "Povuci ovamo za prikvačivanje biblioteke"
+  },
   "0OEO+j": {
     "defaultMessage": "Žanrovi"
   },
@@ -49,6 +55,9 @@
   },
   "0qntYX": {
     "defaultMessage": "Izračunaj šifre za stranice"
+  },
+  "1+Ux6s": {
+    "defaultMessage": "Počni stvaranjem jedne biblioteke"
   },
   "13nnQg": {
     "defaultMessage": "Koristi novi NextUI kao standardna postavka za ovaj server"
@@ -65,6 +74,9 @@
   "1dgTdi": {
     "defaultMessage": "Analiziraj"
   },
+  "1qIfds": {
+    "defaultMessage": "Prikvačeno"
+  },
   "2IYW7s": {
     "defaultMessage": "URL"
   },
@@ -80,8 +92,14 @@
   "3OgH93": {
     "defaultMessage": "Serije"
   },
+  "3T1ln7": {
+    "defaultMessage": "Izbriši biblioteku"
+  },
   "3W0jUi": {
     "defaultMessage": "Isključi etikete"
+  },
+  "3gimvl": {
+    "defaultMessage": "izbornik biblioteke"
   },
   "3lLmfX": {
     "defaultMessage": "Zbirka"
@@ -155,6 +173,9 @@
   "6nCIPn": {
     "defaultMessage": "Vrsta"
   },
+  "70/wK4": {
+    "defaultMessage": "Stvori biblioteku"
+  },
   "700A3r": {
     "defaultMessage": "Knjiga"
   },
@@ -188,6 +209,12 @@
   "8kylzj": {
     "defaultMessage": "Izbriši"
   },
+  "8xonXJ": {
+    "defaultMessage": "Analizira sve medijske datoteke u biblioteci. Analiza prikuplja informacije o medijima. Ovisno o veličini biblioteke to može potrajati."
+  },
+  "90yqRq": {
+    "defaultMessage": "dodaj biblioteku"
+  },
   "9GaR82": {
     "defaultMessage": "Općenito"
   },
@@ -200,8 +227,14 @@
   "9mujmD": {
     "defaultMessage": "Bez datuma izdanja"
   },
+  "9oA9gw": {
+    "defaultMessage": "Otkvačeno"
+  },
   "BXkP7H": {
     "defaultMessage": "Zatvori"
+  },
+  "CJaS7j": {
+    "defaultMessage": "Osnovni direktorij biblioteke"
   },
   "CW0idP": {
     "defaultMessage": "Izdavač"
@@ -229,6 +262,18 @@
   },
   "E5ZMyt": {
     "defaultMessage": "Analiziraj"
+  },
+  "ELl0N9": {
+    "defaultMessage": "Knjige kojima nedostaju plakati sada se mogu filtrirati izravno u glavnom prikazu biblioteke."
+  },
+  "GCwZB2": {
+    "defaultMessage": "Pretraži datoteke biblioteke"
+  },
+  "GyRV+/": {
+    "defaultMessage": "Aktiviraj ovu opciju ako se biblioteka nalazi na Google Drive"
+  },
+  "H+LXXE": {
+    "defaultMessage": "Povuci ovamo za otkvačivanje biblioteke"
   },
   "H4Kte4": {
     "defaultMessage": "Naslov"
@@ -299,6 +344,12 @@
   "OLqBQc": {
     "defaultMessage": "Izdavač"
   },
+  "OZSDCE": {
+    "defaultMessage": "Prikvačeno"
+  },
+  "PvKF7E": {
+    "defaultMessage": "Biblioteka je izbrisana: {library}"
+  },
   "QBQ5a/": {
     "defaultMessage": "Naslov"
   },
@@ -353,6 +404,9 @@
   "XR+P68": {
     "defaultMessage": "Jezik"
   },
+  "YeFgyc": {
+    "defaultMessage": "Knjige s greškom se sada mogu filtrirati izravno u glavnom prikazu biblioteke."
+  },
   "Ym48fa": {
     "defaultMessage": "Nema nedavnih događaja"
   },
@@ -371,14 +425,32 @@
   "aHyrmS": {
     "defaultMessage": "Izbriši"
   },
+  "aOiU5f": {
+    "defaultMessage": "Biblioteka je aktualizirana: {library}"
+  },
   "aR6KDt": {
     "defaultMessage": "Jezik"
   },
   "aU1qcP": {
     "defaultMessage": "Izbriši"
   },
+  "am3r7e": {
+    "defaultMessage": "Aktualiziraj biblioteku"
+  },
+  "app.error.ERR_1017": {
+    "defaultMessage": "Nije moguće pregledati mapu koja je dio postojeće biblioteke"
+  },
+  "app.error.ERR_1019": {
+    "defaultMessage": "Nije moguće uvesti datoteku koja je dio postojeće biblioteke"
+  },
   "app.user-create-dialog.all_libraries": {
     "defaultMessage": "Sve biblioteke"
+  },
+  "bk1tX8": {
+    "defaultMessage": "Biblioteka će se izbrisati s ovog servera.<ul><li>Serije i knjige će se izbrisati zajedno s njihovim metapodacima i napretkom čitanja.</li><li>Medijske datoteke se neće izbrisati s diska.</li></ul><b>Ovo je nepovratna radnja.</b>"
+  },
+  "bzn96A": {
+    "defaultMessage": "Stvori biblioteku"
   },
   "cyQk6S": {
     "defaultMessage": "Zbirke"
@@ -407,6 +479,12 @@
   "jN3N1Q": {
     "defaultMessage": "Analiziraj"
   },
+  "kDc7YL": {
+    "defaultMessage": "Server medija standardno ne uklanja informacije za medije odmah. To pomaže ako je pogon privremeno isključen. Kada isprazniš smeće za biblioteku, brišu se sve informacije o nedostajućim medijima."
+  },
+  "kHmCVM": {
+    "defaultMessage": "Pretraži biblioteku"
+  },
   "kYDPt1": {
     "defaultMessage": "Ime datoteke"
   },
@@ -431,6 +509,9 @@
   "nXWSTf": {
     "defaultMessage": "Ime"
   },
+  "nuoJ1n": {
+    "defaultMessage": "Stvori biblioteku"
+  },
   "o+h0F+": {
     "defaultMessage": "Ime datoteke"
   },
@@ -440,8 +521,17 @@
   "oOtDhj": {
     "defaultMessage": "Kopiraj u međuspremnik"
   },
+  "pCBNlA": {
+    "defaultMessage": "Biblioteka"
+  },
+  "phzvRy": {
+    "defaultMessage": "Biblioteka"
+  },
   "rDBhmQ": {
     "defaultMessage": "Izbriši"
+  },
+  "rm0c6Y": {
+    "defaultMessage": "Ovaj server još nema nijednu biblioteku"
   },
   "rrF/Z2": {
     "defaultMessage": "Ime"
@@ -455,6 +545,9 @@
   "s/A/wz": {
     "defaultMessage": "ISBN"
   },
+  "s1nzhU": {
+    "defaultMessage": "Ime biblioteke"
+  },
   "sGsWvI": {
     "defaultMessage": "Promijeni lozinku"
   },
@@ -467,11 +560,17 @@
   "sUSVQS": {
     "defaultMessage": "Označi kao pročitano"
   },
+  "sj2JGj": {
+    "defaultMessage": "Otkvačeno"
+  },
   "vTqlcG": {
     "defaultMessage": "Izbriši"
   },
   "vcA12h": {
     "defaultMessage": "Jezik"
+  },
+  "vs88Ef": {
+    "defaultMessage": "Osvježava metapodatke za sve medijske datoteke u biblioteci. Ovisno o veličini biblioteke, to može potrajati."
   },
   "w2K5yu": {
     "defaultMessage": "Liste čitanja"
@@ -487,5 +586,11 @@
   },
   "xPBqGY": {
     "defaultMessage": "Izbriši serije"
+  },
+  "y3nPgO": {
+    "defaultMessage": "Provodi dubinsko pregledavanje datoteka biblioteke. Ovisno o veličini biblioteke, to može potrajati."
+  },
+  "zuhGGz": {
+    "defaultMessage": "Promijeni redoslijed ili prikvači"
   }
 }
