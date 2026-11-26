@@ -1,0 +1,56 @@
+{
+  "+6DtMH": {
+    "defaultMessage": "Používateľské rozhranie"
+  },
+  "+6YDzS": {
+    "defaultMessage": "Nenašli sa žiadne údaje"
+  },
+  "+8++PW": {
+    "defaultMessage": "Knižnica vytvorená: {library}"
+  },
+  "+C/+3o": {
+    "defaultMessage": "Zoznam nemôže byť prázdny"
+  },
+  "+PNCoe": {
+    "defaultMessage": "Alternatívny názov"
+  },
+  "+TldjW": {
+    "defaultMessage": "Nič na zobrazenie"
+  },
+  "+jaADC": {
+    "defaultMessage": "Názov súboru"
+  },
+  "+mJGIg": {
+    "defaultMessage": "Cesta k súboru"
+  },
+  "+mvfpU": {
+    "defaultMessage": "{count, plural, one {# séria} other {# série} } aktualizované"
+  },
+  "+opDqu": {
+    "defaultMessage": "Prejsť na"
+  },
+  "+pyj1u": {
+    "defaultMessage": "Nedostupné"
+  },
+  "+r8FCS": {
+    "defaultMessage": "Port, na ktorom server počúva"
+  },
+  "+sF9Fw": {
+    "defaultMessage": "Existujúce hodnoty"
+  },
+  "+sXZtI": {
+    "defaultMessage": "Zavrieť"
+  },
+  "+y+9xL": {
+    "defaultMessage": "Súbory presahujúce limit veľkosti: {filenames}"
+  },
+  "/4RRHN": {
+    "defaultMessage": "Zoznam nemôže byť prázdny"
+  },
+  "/5Gb4y": {
+    "defaultMessage": "Odstrániť"
+  },
+  "/8sSxS": {
+    "defaultMessage": "Vyžaduje sa na obnovenie z koša a zisťovanie duplicitných súborov"
+  }
+}
